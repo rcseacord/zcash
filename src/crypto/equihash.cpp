@@ -9,7 +9,7 @@
 // =========
 // Alex Biryukov and Dmitry Khovratovich
 // Equihash: Asymmetric Proof-of-Work Based on the Generalized Birthday Problem
-// NDSS ’16, 21-24 February 2016, San Diego, CA, USA
+// NDSS ’16, 21-24 February 2016, San Diego, CA, USA 
 // https://www.internetsociety.org/sites/default/files/blogs-media/equihash-asymmetric-proof-of-work-based-generalized-birthday-problem.pdf
 
 #include "crypto/equihash.h"
